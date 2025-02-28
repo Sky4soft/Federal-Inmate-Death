@@ -22,10 +22,13 @@ This project leverages **Malloy** for querying and analyzing the data. Various v
 <img src="./Images/Trend.png">
 
 ## Getting Started  
-### Prerequisites  
-- **Python 3.x**  
-- **Malloy** (for data querying)  
-- **Jupyter Notebook** (recommended for interactive analysis)  
+# Using Malloy in GitHub  
+
+## Overview  
+This guide explains how to set up and use **Malloy**, a powerful data exploration language, within your GitHub repository for data analysis and visualization.  
+
+## What is Malloy?  
+Malloy is a next-generation data language that enables **expressive, composable, and reusable queries** for analyzing structured datasets. It is built for **modern analytics workflows** and integrates well with databases like **DuckDB**, **BigQuery**, and others.  
 
 ### Installation  
 Clone the repository:  
