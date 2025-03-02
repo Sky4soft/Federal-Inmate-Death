@@ -1,5 +1,5 @@
 # Federal Inmate Deaths Analysis
-# Julie Moore
+
 ## Overview  
 This repository contains datasets and analysis related to **Federal Inmate Deaths**, sourced from the [Data Liberation Project](https://github.com/Sky4soft/Federal-Inmate-Deaths). The goal of this project is to explore patterns and trends in inmate deaths within the federal prison system, analyzing factors such as **death categories, demographic distributions, and geographic trends**.
 
